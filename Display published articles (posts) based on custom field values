@@ -1,4 +1,4 @@
-/*MySQL: Display published articles (posts) based on custom field values.
+/* MySQL & WordPress: Display published articles (posts) based on custom field values.
 
 Example:
 Show posts that have been published and have a custom field id of "photos" with a value of 0 and a custom field id of "videos" with a value of 0
