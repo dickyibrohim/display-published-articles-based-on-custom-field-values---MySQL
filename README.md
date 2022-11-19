@@ -1,4 +1,4 @@
-# display-published-articles-based-on-custom-field-values---MySQL
+# display published articles based on custom field values (MySQL & WordPress)
 MySQL: Display published articles (posts) based on custom field values.
 ### Hi there 👋
 - 🔭 I’m currently managing PT. CLEOVA INOVASI TEKNOLOGI
